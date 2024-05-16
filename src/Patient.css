@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+  
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    
+  }
+  
+  .card-op {
+  
+    padding: 25px;
+    margin: 10px;
+    width: 750px;
+    box-shadow:10px 9px 30px rgb(23 50 86 / 29%);
+    border-radius: 30px;
+    padding: 20px;
+    
+  }
+  
+  .card h2 {
+    margin-top: 0;
+  }
+
+  .doc-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: snow;
+    /* width: 98%; */
+
+  }
+  

@@ -1,0 +1,117 @@
+/* .doctor2-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .doctor2-card {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 10px;
+    width: 270px;
+    box-shadow:10px 9px 30px rgb(23 50 86 / 29%);
+  }
+  
+  .doctor2-card h2 {
+    margin-top: 0;
+    color: blueviolet;
+  }
+  
+  .doctor2-card p {
+    margin: 0px 0;
+    color:#007C9D;
+  }
+
+  .doctor2-card img {
+    width: 100px;
+    height: 100px;
+    border-radius:50px;
+    background-color: lavender;
+  }
+
+  button {
+    background-color: #237D9E;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  strong{
+    color: coral;
+    font-size: 14px;
+  }
+
+
+
+  .search-input {
+    margin-top: 12px;
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #007294;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: 66px;
+  }
+  
+
+  .specialty{
+    position: relative;
+    margin-top: -24px;
+    margin-left: 66px;
+  }
+  
+  .care{
+    position: relative;
+    margin-top: -24px;
+    margin-left: 35px;
+  } */
+
+
+
+
+  .container {
+    width: 100%;
+  
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    
+  }
+  
+  .card {
+  
+    padding: 25px;
+    margin: 10px;
+    width: 250px;
+    box-shadow:10px 9px 30px rgb(23 50 86 / 29%);
+    border-radius: 30px;
+    padding: 20px;
+    
+  }
+  
+  .card h2 {
+    margin-top: 0;
+  }
+
+  .doc-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: snow;
+    width: 98%;
+
+  }
+  

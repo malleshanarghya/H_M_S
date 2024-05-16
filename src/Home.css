@@ -1,0 +1,220 @@
+  body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+
+ /* .Home-hedder{
+    background-color: #007C9D;
+    background-image: url('C:\Users\Admin\Desktop\Anarghya\React js\h_m_s\src\images\dt.jpg');
+    height: 86.5vh;
+    background-size: cover;
+    
+}
+
+
+
+
+.Home-user-button {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; 
+    
+  }
+  
+
+  
+  
+  .Home-user-button button {
+    padding: 15px 30px;
+    background-color: #007C9D;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .Home-user-button button:hover {
+    background-color: #2fb6db;
+  }  */
+   
+
+
+      
+      /* H_M_S-1################################################################################*/
+
+
+/* 
+.row{
+  margin: 10px;
+} */
+/* .Home-info{
+  border-radius: 30px;
+}
+      .Home-split-container {
+        display: flex;
+        height: 80vh; 
+      }
+      .Home-text-section {
+        flex: 1; 
+        padding: 20px;
+        background-color: #f2f2f2;
+      }
+      .Home-image-section {
+        flex: 1; 
+        padding: 20px;
+        background-color: #ddd;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .image-container {
+        max-width: 100%;
+        max-height: 100%;
+      }
+      .image-container img {
+        max-width: 100%;
+        max-height: 100%;
+        display: block;
+        margin: auto;
+      }
+
+.container-fluid{
+  
+    
+    box-shadow: 4px 4px gray;
+}
+
+.Home-text{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  line-height: 2;
+}
+
+
+.Home-user-button {
+  position: absolute;
+  top: 80%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; 
+  
+}
+
+
+.Home-user-button button {
+  padding: 15px 30px;
+  background-color: #007294;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Home-user-button button:hover {
+  background-color: #3f4344;
+} */
+
+
+
+/* .Home-info{
+  background-image: url('C:\Users\lenovo\OneDrive\Desktop\Anarghya\React\H-M-S\src\images\doctor-bg.jpg');
+} */
+
+/* .row dropdown{
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+} */
+
+/* .col{
+  margin-top: 10px;
+  margin-left: 80px;
+} */
+
+.bg-img{
+  
+  width: 90%;
+  height: 82vh;
+  float: right;
+ 
+
+}
+
+/* img{
+  position: absolute;
+} */
+
+.doctor-img{
+  position: absolute;
+  float: right;
+  width: 500px;
+  height: 500px;
+margin-left: 500px;
+margin-top: -250px;
+}
+
+
+.Home-text{
+  position: absolute;
+  width: 60%;
+  top: 25%;
+  color: #007294;
+ 
+  
+}
+
+
+
+.Home-Text{
+  position: absolute;
+  margin-top: -570px;
+  margin-left: 14%;
+}
+
+.Home-Text p {
+  color: #007294;
+  margin-top: 75px;
+}
+
+.Home-Text h3 {
+  color: blue;
+}
+
+.Home-user-button {
+  position: absolute;
+  top: 70%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; 
+  
+}
+
+
+.Home-user-button button {
+  padding: 15px 30px;
+  background-color: #007294;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Home-user-button button:hover {
+  background-color: #3f4344;
+}

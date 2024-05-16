@@ -1,0 +1,199 @@
+/* 
+
+
+
+.doctor-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 3px 3px 19px rgb(16 40 81 / 20%);
+}
+
+
+.doctor-profile {
+  display: flex;
+}
+
+
+.doc-img img {
+  width: 100px;
+  height: 100px;
+  border-radius: 36%;
+  margin-right: 20px;
+}
+
+
+.doc-dec {
+  flex: 1;
+  
+}
+
+
+.hrline {
+  margin: 20px 0;
+}
+
+.deleted-card {
+  background-color: #030303; 
+  border: 1px solid #0d0c0c;
+}
+
+.doc-oppointment {
+  display: flex;
+  align-items: center;
+}
+
+
+.doc-time {
+  margin-right: 20px;
+}
+
+
+.doc-button button {
+  background-color: #237D9E;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.doc-button button:hover {
+  background-color: #0056b3;
+}
+h5{
+  color: coral;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+.doctor2-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.doctor2-card {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 25px;
+  margin: 10px;
+  width: 270px;
+  box-shadow:10px 9px 30px rgb(23 50 86 / 29%);
+}
+
+.doctor2-card h2 {
+  margin-top: 0;
+  color: blueviolet;
+}
+
+.doctor2-card p {
+  margin: 0px 0;
+  color:#007C9D;
+}
+
+.doctor2-card img {
+  width: 100px;
+  height: 100px;
+  border-radius:50px;
+  background-color: lavender;
+}
+
+button {
+  background-color: #237D9E;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+  width: 100%;
+}
+
+
+button:hover {
+  background-color: #0056b3;
+}
+
+strong{
+  color: coral;
+  font-size: 14px;
+}
+
+
+
+.search-input {
+  margin-top: 12px;
+  width: 60%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #007294;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-left: 66px;
+}
+
+
+.specialty{
+  position: relative;
+  margin-top: -24px;
+  margin-left: 66px;
+}
+
+.care{
+  position: relative;
+  margin-top: -24px;
+  margin-left: 35px;
+}
+
+
+.deleted {
+  opacity: 0.1; /* Example styling for deleted card */
+  background-color: #ef0909; /* Red color for deleted card */
+}
+/* Modal */
+.modal {
+  display: block;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 60%;
+}
+
+/* Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
